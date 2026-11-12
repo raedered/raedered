@@ -97,16 +97,3 @@ EC2 · RDS · S3 · CloudFront · Route 53 배포 학습
 | [Spring Boot](https://github.com/raedered/korit_07_springboot) | 웹 API, Spring Data JPA, MariaDB 연동, Spring Security, JWT 인증 |
 | [React](https://github.com/raedered/korit_07_react) | React·TypeScript·Vite, Axios, TanStack Query, MUI, 차량 관리 화면 실습 |
 | [AWS](https://github.com/raedered/korit_07_aws) | EC2 백엔드 배포, RDS, S3·CloudFront 정적 배포, Route 53, HTTPS 구성 학습 |
-
-<br/>
-
----
-
-<div align="center">
-
-### 📫 Let's Connect
-
-프로젝트와 개발에 관한 이야기를 나누고 싶다면 연락해주세요.<br/>
-**[kjt250018@gmail.com](mailto:kjt250018@gmail.com)**
-
-</div>
