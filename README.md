@@ -33,8 +33,6 @@ Java / Spring 기반 백엔드와 웹 전반에 관심이 많아요.
 ---
 
 ## 📫 Contact Me
-
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@YOUR_VELOG_ID)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:kjt250018@gmail.com)
 
 ---
